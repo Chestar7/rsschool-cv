@@ -1,0 +1,38 @@
+body {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    background-color: rgb(202, 227, 255)
+}
+
+h1 {
+ font-family: Verdana, sans-serif;
+ text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.photo {
+    font-size: 18px;
+    text-align: center;
+}
+
+.text {
+    font: italic 1.1em Arial;
+    margin-left: 80px;
+}
+
+.about-me {
+    font-size: 1em;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.block {
+    border-width: 1px;
+    border-style: dnone;
+    margin-top: 50px;
+}
